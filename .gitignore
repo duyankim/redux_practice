@@ -1,0 +1,95 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+../../../../.bash_history
+        ../../../../.bundle/
+        ../../../../.config/
+        ../../../../.dbshell
+        ../../../../.eclipse/
+        ../../../../.gem/
+        ../../../../.gitconfig
+        ../../../../.gitignore
+        ../../../../.idlerc/
+        ../../../../.lemminx/
+        ../../../../.matplotlib/
+        ../../../../.minttyrc
+        ../../../../.mongorc.js
+        ../../../../.node_repl_history
+        ../../../../.tooling/
+        ../../../../.viminfo
+        ../../../../.vscode/
+        ../../../../.yarnrc
+        ../../../../3D Objects/
+        ../../../../AppData/
+        ../../../../Contacts/
+        ../../../../Creative Cloud Files/
+        ../../../
+        ../../../../Documents/.Rhistory
+        ../../../../Documents/Adobe/
+        ../../../../Documents/NotoSerifCJKkr-hinted.zip
+        ../../../../Documents/Welcome to Cell.cell
+        ../../../../Documents/Welcome to Hwp.hwp
+        ../../../../Documents/Welcome to Show.show
+        ../../../../Documents/Welcome to Word.docx
+        ../../../../Documents/Zoom/
+        ../../../../Documents/desktop.ini
+        ../../../../Documents/duyankim.github.io/
+        ../../../../Documents/innogmp_win.exe
+        ../../../../Documents/kopub.zip
+        ../../../../Documents/movie2020/
+        ../../../../Documents/oCam/
+        ../../../../Documents/temp.log
+        ../../../../Documents/wetube/
+        ../../../../Documents/workspace/bookshop/
+        ../../../../Documents/workspace/kids-reading-app/
+        ../../../../Documents/workspace/lesson/
+        ../../../../Documents/workspace/news-app/
+        ../../../../Documents/workspace/reactPractice/
+        "../../../../Documents/\353\202\264 \353\215\260\354\235\264\355\204\260 \354\233\220\353\263\270/"  
+        "../../../../Documents/\354\271\264\354\271\264\354\230\244\355\206\241 \353\260\233\354\235\200 \355\214\214\354\235\274/"
+        ../../../../Downloads/
+        ../../../../Favorites/
+        ../../../../Intel/
+        ../../../../IntelGraphicsProfiles/
+        ../../../../Links/
+        ../../../../MicrosoftEdgeBackups/
+        ../../../../Music/
+        ../../../../NTUSER.DAT
+        ../../../../NTUSER.DAT{ae38247f-bb72-11e9-bdc4-87f7a7f9d14e}.TM.blf
+        ../../../../NTUSER.DAT{ae38247f-bb72-11e9-bdc4-87f7a7f9d14e}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../NTUSER.DAT{ae38247f-bb72-11e9-bdc4-87f7a7f9d14e}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../OneDrive/
+        ../../../../Pictures/
+        ../../../../Saved Games/
+        ../../../../Searches/
+        ../../../../Untitled-1.txt
+        ../../../../Videos/
+        ../../../../arbolkim@gmail.com Creative Cloud Files/
+        ../../../../eclipse-workspace/
+        ../../../../indi121@gc.gachon.ac.kr Creative Cloud Files/
+        ../../../../mercurial.ini
+        ../../../../ntuser.dat.LOG1
+        ../../../../ntuser.dat.LOG2
+        ../../../../ntuser.ini
+        ../../../../package-lock.json
